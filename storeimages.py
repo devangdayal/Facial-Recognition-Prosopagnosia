@@ -1,3 +1,9 @@
+# command to run the file on terminal
+# python storeimages.py --cascade haarcascade_frontalface_default.xml \ --output dataset/Rupali
+
+
+
+
 # import the necessary packages
 from imutils.video import VideoStream
 import argparse
