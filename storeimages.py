@@ -1,5 +1,5 @@
 # command to run the file on terminal
-# python storeimages.py --cascade haarcascade_frontalface_default.xml \ --output dataset/Rupali
+# python storeimages.py --cascade haarcascade_frontalface_default.xml --output dataset/Rupali
 
 
 
