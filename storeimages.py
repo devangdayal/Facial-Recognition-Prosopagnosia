@@ -1,5 +1,5 @@
 # command to run the file on terminal
-# python storeimages.py --cascade haarcascade_frontalface_default.xml -
+# python storeimages.py --cascade haarcascade_frontalface_default.xml 
 #Now the user can input name of the directory he/she wants to the respective person's images while clicking them
 
 
