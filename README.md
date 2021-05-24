@@ -39,8 +39,11 @@ Now I run the face_detect python file to detect faces I already have now in the 
 Stored Namrendra Modi's photos in the dataset using his images from the internet
 ![image](https://user-images.githubusercontent.com/66245321/119340063-9d57ae80-bcaf-11eb-98c4-75ae4f178f19.png)
 
+
 Now detecting both faces together
+
 ![image](https://user-images.githubusercontent.com/66245321/119340090-a8124380-bcaf-11eb-92fe-45dee38c6163.png)
+
 
 I didn't store Sachin Tendulkar's photos in the dataset , so it's labelled unknown for him
 ![image](https://user-images.githubusercontent.com/66245321/119340193-d2640100-bcaf-11eb-98c9-b3506a411737.png)
