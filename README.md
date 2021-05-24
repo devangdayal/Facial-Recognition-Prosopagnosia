@@ -16,4 +16,9 @@ If the next time the user meets that person and due to being a Prosopagnosia pat
 The real-time dataset formation will be enabled only when the person's name entered is already not in the dataset else it will just notify the user that the person's dataset is already in the database.
 The real-time face detection works for both group of people and single person. If trying to recognise a person whose photos are not in the dataset then, that person is labelled as "Unknown" in the camera else his/her name will be shown.
 
-# The initial results are as follows:
+## The initial results are as follows:
+I started making a dataset with my own name with my pictures in it
+
+![image](https://user-images.githubusercontent.com/66245321/119335421-fb819300-bca9-11eb-812a-b515565a77e7.png)
+
+Then clicked my photos
