@@ -45,7 +45,7 @@ Now detecting both faces together
 I didn't store Sachin Tendulkar's photos in the dataset , so it's labelled unknown for him
 ![image](https://user-images.githubusercontent.com/66245321/119340193-d2640100-bcaf-11eb-98c9-b3506a411737.png)
 
-###This is how our software works
+### This is how our software works
 
 
 
