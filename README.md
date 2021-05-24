@@ -21,4 +21,38 @@ I started making a dataset with my own name with my pictures in it
 
 ![image](https://user-images.githubusercontent.com/66245321/119335421-fb819300-bca9-11eb-812a-b515565a77e7.png)
 
-Then clicked my photos
+Then clicked my photos 5 times by pressing the "K" key
+
+![image](https://user-images.githubusercontent.com/66245321/119339562-ebb87d80-bcae-11eb-8b49-1af62ad14983.png)
+
+![image](https://user-images.githubusercontent.com/66245321/119339736-2de1bf00-bcaf-11eb-8464-905b59da83f8.png)
+
+Now a new directory in the dataset folder is formed with the name "Rupali"
+![image](https://user-images.githubusercontent.com/66245321/119339836-4eaa1480-bcaf-11eb-95d2-270d5f8c8bb0.png)
+
+![image](https://user-images.githubusercontent.com/66245321/119339866-58337c80-bcaf-11eb-90ce-cc5c95cf54f0.png)
+
+Now I run the face_detect python file to detect faces I already have now in the dataset
+
+![image](https://user-images.githubusercontent.com/66245321/119339964-78633b80-bcaf-11eb-9d41-bc7dd682bc34.png)
+
+Stored Namrendra Modi's photos in the dataset using his images from the internet
+![image](https://user-images.githubusercontent.com/66245321/119340063-9d57ae80-bcaf-11eb-98c4-75ae4f178f19.png)
+
+Now detecting both faces together
+![image](https://user-images.githubusercontent.com/66245321/119340090-a8124380-bcaf-11eb-92fe-45dee38c6163.png)
+
+I didn't store Sachin Tendulkar's photos in the dataset , so it's labelled unknown for him
+![image](https://user-images.githubusercontent.com/66245321/119340193-d2640100-bcaf-11eb-98c9-b3506a411737.png)
+
+###This is how our software works
+
+
+
+
+
+
+
+
+
+
