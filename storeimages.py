@@ -1,6 +1,6 @@
 # command to run the file on terminal
-# python storeimages.py --cascade haarcascade_frontalface_default.xml \ --output dataset/Rupali
-
+# python storeimages.py --cascade haarcascade_frontalface_default.xml 
+#Now the user can input name of the directory he/she wants to the respective person's images while clicking them
 
 
 
@@ -12,12 +12,27 @@ import time
 import cv2
 import os
 
+
+directory=input('Enter the name of the person : ')
+parent_dir="dataset/"
+path = os.path.join(parent_dir, directory)
+
+File=os.path.isdir(path)
+print(File)
+if(File==False):
+    os.mkdir(path)
+
+
+
+
+
+
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-c", "--cascade", required=True,
 	help = "path to where the face cascade resides")
-ap.add_argument("-o", "--output", required=True,
-	help="path to output directory")
+#ap.add_argument("-o", "--output", required=False,
+#	help=path)
 args = vars(ap.parse_args())
 
 
@@ -63,9 +78,7 @@ while True:
 	# if the `k` key was pressed, write the *original* frame to disk
 	# so we can later process it and use it for face recognition
 	if key == ord("k"):
-		p = os.path.sep.join([args["output"], "{}.png".format(
-			#str(args["
-			str(total).zfill(5))])
+		p = os.path.sep.join([path, directory+"{}.png".format(str(total).zfill(2))])
 		cv2.imwrite(p, orig)
 		total += 1
 	# if the `q` key was pressed, break from the loop
