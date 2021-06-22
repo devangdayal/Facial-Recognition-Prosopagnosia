@@ -54,7 +54,7 @@ time.sleep(2.0)
 total = 0
 
 
-# loop over the frames from the video stream
+## loop over the frames from the video stream
 while True:
 	# grab the frame from the threaded video stream, clone it, (just
 	# in case we want to write it to disk), and then resize the frame
