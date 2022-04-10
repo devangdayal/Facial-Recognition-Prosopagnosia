@@ -36,7 +36,7 @@ Now I run the face_detect python file to detect faces I already have now in the 
 
 ![image](https://user-images.githubusercontent.com/66245321/119340350-0a6b4400-bcb0-11eb-9749-176bd1f0a863.png)
 
-Stored Namrendra Modi's photos in the dataset using his images from the internet
+Stored Narendra Modi's photos in the dataset using his images from the internet
 ![image](https://user-images.githubusercontent.com/66245321/119340063-9d57ae80-bcaf-11eb-98c4-75ae4f178f19.png)
 
 
